@@ -1,0 +1,15 @@
+{
+  "name": "martynstests",
+  "version": "1.0.0",
+  "description": "martyns nightwatch tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "martyn stallwood",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.16",
+    "selenium-standalone": "^6.11.0"
+  }
+}
